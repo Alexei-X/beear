@@ -1,5 +1,5 @@
 //
-//  PracticeView.swift
+//  LearnView.swift
 //  beear
 //
 //  Created by Alex Bataille on 29/03/2025.
@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct PracticeView: View {
+struct LearnView: View {
     var body: some View {
-        Text("Let's practice !")
+        Text("Lets' learn !")
     }
 }
 
 #Preview {
-    PracticeView()
+    LearnView()
 }
